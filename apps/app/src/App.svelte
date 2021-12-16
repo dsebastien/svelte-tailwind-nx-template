@@ -1,10 +1,6 @@
 <script lang="ts">
-  import Tailwind from "./Tailwind.svelte";
-
   export let name: string;
 </script>
-
-<Tailwind />
 
 <style lang="postcss">
   :global {
